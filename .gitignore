@@ -1,0 +1,8 @@
+output/
+temp_chunks/
+__pycache__/
+*.pyc
+*.log
+.venv/
+mouth_settings.json
+.env
